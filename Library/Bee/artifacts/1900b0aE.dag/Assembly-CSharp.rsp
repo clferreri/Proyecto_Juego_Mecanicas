@@ -355,6 +355,7 @@
 "Assets/Scripts/Disparador.cs"
 "Assets/Scripts/Flecha.cs"
 "Assets/Scripts/GameManager.cs"
+"Assets/Scripts/MuroRayCast.cs"
 "Assets/Scripts/Pies.cs"
 "Assets/Scripts/Player.cs"
 "Assets/Scripts/WallDeath.cs"
